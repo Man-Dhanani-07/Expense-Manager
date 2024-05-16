@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name ="orange">#FFA500</color>
+    <color name="Red">#FF1E00</color>
+    <color name="Green">#4CAF50</color>
+    <color name="textcolor">#9E9E9E</color>
+
+<color name="Redd">#F45843</color>
+<color name="Greenn">#08B90F</color>
+
+
+
+    <color name="categoryorange">#FF3D00</color>
+    <color name="catelightblue">#008EFF</color>
+    <color name="catelightgreen">#42E109</color>
+    <color name="categorypink">#FF0056</color>
+    <color name="categorypurple">#C332DC</color>
+    <color name="catedarkblue">#102DEC</color>
+    <color name="categorybrown">#964B00</color>
+
+    <color name="Cash">#3A9F3E</color>
+    <color name="Gpay">#FF1E00</color>
+    <color name="phonepe">#9B30AE</color>
+    <color name="paytm">#3BACDF</color>
+    <color name="mobilebanking">#08FBE5</color>
+    <color name="other">#FFA725</color>
+
+</resources>
